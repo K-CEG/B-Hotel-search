@@ -1,2 +1,2 @@
-1. `npm install react`
+1. `npm install`
 2. `npm start`
